@@ -9,8 +9,7 @@ The components:
 - Joystick - 1 piece
 - Switch ON-OFF KCD1/KCD11 - 2 piece
 
-## First stage 
-Assembling the arm with printed components.
+## First stage assembling
 
 
 
