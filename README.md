@@ -17,5 +17,5 @@ The components:
 ![Image](https://github.com/user-attachments/assets/19334fa9-1f0f-4b1b-b0b2-3fc4869cc8f1)
 Link:
 - Article: https://randomnerdtutorials.com/esp-now-two-way-communication-esp32/
-- Youtube:
+- Youtube: [Watch the demo on YouTube](https://youtube.com/shorts/9SrCt_5Y8DQ?feature=share)
 
